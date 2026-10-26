@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Tvisha</h1>
 <h3 align="center">I code, therefore I am.</h3>
 
+### ⚡ `most_used_languages`
+
+> Analysing my questionable life choices...
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvisha-codes&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" />
+</p>
+
+<p align="center">
+  <sub>Hack the planet. Debug the universe.</sub>
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tvisha-codes&label=Profile%20views&color=0e75b6&style=flat" alt="tvisha-codes" /> </p>
 
 - 🌱 I’m currently learning **anything and everything**
