@@ -5,9 +5,16 @@
 
 > Analysing my questionable life choices...
 
+
+<h3 align="center">⚡ Most Used Languages</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvisha-codes&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvisha-codes&layout=compact&theme=tokyonight&langs_count=5"
+    alt="Most Used Languages"
+  />
 </p>
+
 
 <p align="center">
   <sub>Hack the planet. Debug the universe.</sub>
